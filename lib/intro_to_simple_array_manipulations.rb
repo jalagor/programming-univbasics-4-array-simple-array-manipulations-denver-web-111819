@@ -44,4 +44,8 @@ end
  
  def using_uniq(array) 
    array.uniq 
+end 
+ 
+def using_flatten(arrray) 
+  array.flatten 
 end
